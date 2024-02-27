@@ -122,7 +122,7 @@ export function DirectionAwareHoverDemo() {
           href={course.link}
           target="_blank"
           rel="noopener noreferrer"
-          className="cursor-pointer text-center justify-center"
+          className="cursor-pointer justify-center"
         >
           <DirectionAwareHover imageUrl={course.image}>
             <div className="flex flex-col justify-center items-start h-full">
