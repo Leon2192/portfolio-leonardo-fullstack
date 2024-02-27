@@ -9,6 +9,15 @@ import React from "react";
 
 const courses = [
   {
+    image: "/projects/barbers.jpg",
+    name: "BarberApp",
+    legend:
+      "Progressive Web App (PWA) que indica las barberias por barrio y GPS",
+    description:
+      "Tecnologias Next js, Next UI, Tailwind css, Next PWA & Firebase",
+    link: "https://ranking-barberiapp.vercel.app/",
+  },
+  {
     image: "/projects/goproject.jpg",
     name: "Gopro Reseller",
     legend: "Landing page para reseller de la marca Gopro",
