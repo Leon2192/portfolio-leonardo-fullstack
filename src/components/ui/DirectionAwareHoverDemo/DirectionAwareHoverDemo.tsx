@@ -25,14 +25,14 @@ const courses = [
     link: "https://www.gopro.ar/",
   },
   {
-    image: "/projects/boost.jpg",
+    image: "/projects/nahitan5.jpg",
     name: "Nahitan agencia",
     legend: "Desarrollo para agencia de Diseño Web",
     description: "Tecnologias React js, Next js & Tailwind CSS",
     link: "https://nahitan-web-dev.vercel.app/",
   },
   {
-    image: "/projects/patagonia.jpg",
+    image: "/projects/bakery2.jpg",
     name: "Patagonian llc",
     legend: "Web para marca internacional de pasteleria",
     description: "Tecnologias React js, CSS  & Tailwind css",
@@ -68,7 +68,7 @@ const courses = [
     link: "https://patagoniallc.vercel.app/",
   },
   {
-    image: "/projects/status.png",
+    image: "/projects/global.jpg",
     name: "Status app",
     legend:
       "App que permite consultar el estado y velocidad de carga de sucursales de una empresa",
@@ -84,7 +84,7 @@ const courses = [
   },
 
   {
-    image: "/projects/formvalidate.png",
+    image: "/projects/hookform.png",
     name: "Validate form",
     legend: "Formulario controlado con React Hook Forms",
     description: "Tecnologias React js y React Hook Forms",
@@ -106,7 +106,7 @@ const courses = [
     link: "https://netflix-clone-tailwind-nextjs.vercel.app/",
   },
   {
-    image: "/projects/openjira.jpg",
+    image: "/projects/trello1.jpg",
     name: "Drag & drop app UI",
     legend: "Interfaz con drag & drop ",
     description: "Tecnologias React js & Tailwind css.",
