@@ -69,7 +69,7 @@ function Navbar({ className }: { className?: string }) {
               title="Bases de datos"
               href="https://userogue.com"
               src="https://assets.aceternity.com/demos/Screenshot+2024-02-21+at+11.47.07%E2%80%AFPM.png"
-              description="Relacionales como SQL y no relacionales como Firebase y Mongo."
+              description="Relacionales como SQL y no relacionales como Firebase, Supabase Mongo."
             />
           </div>
         </MenuItem>
